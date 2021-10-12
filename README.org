@@ -4,7 +4,7 @@ The function for algorithm benchmark is the [[https://en.wikipedia.org/wiki/Himm
 
 #+CAPTION: Himmelblau's function
 #+NAME: fig: HF
-[[https://en.wikipedia.org/wiki/Himmelblau%27s_function#/media/File:Himmelblau_contour.svg]]
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Himmelblau_contour.svg/1024px-Himmelblau_contour.svg.png]]
 
 
 ** Repo organization
